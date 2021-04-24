@@ -4,12 +4,13 @@ color: #665544;
 padding: 0 15% 0 15%;
 	}
 h1 {	
+font-family: 'DancingScriptRegular';
 text-align:center;
 color:blue;
-font-family: 'DancingScriptRegular';
 font-size:400%;				
-			}
-h2{
+}
+
+h2 {
 padding: 12px;
 line-height: 2em;
 }
