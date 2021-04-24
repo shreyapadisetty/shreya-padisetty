@@ -1,7 +1,7 @@
  h1 {
   font-family: 'RoundStyleBookOblique';
   font-weight: normal;
-  font-style: italic;       
+  font-style: normal;       
   text-size:30px;
   text-align:center;
   margin-top:0px;
@@ -14,3 +14,23 @@
           color:#000000;
           text-align:left;
         }
+
+board {
+    width: 640px;
+    height: 640px;
+    margin: 20px;
+    border: 25px solid #333;
+}
+
+white {
+ width: 80px;
+ height: 80px;
+ background-color:white;
+}
+
+black {
+ width: 80px;
+ height: 80px;
+ background-color:gray;
+}
+
