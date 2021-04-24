@@ -1,68 +1,17 @@
 <!DOCTYPE html>
 <html lang = "en">
   <head>
-    <title>Assignment 02</title>
+    <title>Artifact 02</title>
+   
+     <meta charset="utf-8">
+     <link rel="stylesheet" type="text/css" href="name-of-your-css-file.css">
    </head>
   <body>
     
-    <h1>Module 02: Tables, Forms, Extra Markup</h1>
-    <h2>Created by Shreya Padisetty</h2>
+    <h1>CHESSBOARD</h1>
+
     
-    <hr>
-    <p>
-    <table>
-      <h1><th scope="col">HTML Table Example</th></h1>
-      
-      <tr>
-      <td><img src="https://2rdnmg1qbg403gumla1v9i2h-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2019/06/cropped-GettyImages-643764514-745x490.jpg" 
-               alt="Wooden heart plate with assorted foods" width="250" height="150"/></td>
-      <h2><td>Meal Planner</td></h2>
-      <h2><td>Recipe Index#</td></h2>
-      </tr>
-      <tr>
-        <th>Week starting</th>
-        <th>2/15/2018</th>
-        <th>Instructions</th>
-        </tr>
-      
-      <tr>
-        <td><b>Day of the Week</b></td>
-        <td><b>Recipe Name</b></td>
-        <td rowspan="8">Add the name of the recipe under the column Recipe Name<td>
-        </tr>
-      
-      <tr>
-        <td>Monday</td>
-        <td>Spinach Feta Pizza</td>
-        </tr>
-      
-        <tr>
-        <td>Tuesday</td>
-        <td>My New Recipe</td>
-        </tr>
-      
-        <tr>
-        <td>Wednesday</td>
-        </tr>
-      
-        <tr>
-        <td>Thursday</td>
-        </tr>
-      
-        <tr>
-        <td>Friday</td>
-        </tr>
-      
-        <tr>
-        <td>Saturday</td>
-        </tr>
-      
-        <tr>
-        <td>Sunday</td>
-        </tr>
-      
-      </table>
-    </p>
+    
     
       <p>
         <a href="/shreya-padisetty/prog109/">Go Home</a>
@@ -70,11 +19,4 @@
     
     </body>
   
-        <style>
-        body {
-          background-color:#F9EBCB;
-          color:#000000;
-          text-align:left;
-        }
-      </style>
   </html>
