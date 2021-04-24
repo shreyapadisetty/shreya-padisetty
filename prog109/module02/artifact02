@@ -6,10 +6,27 @@
     </title>
       <meta charset="utf-8">
       <link rel="stylesheet" type="text/css" href="name-of-your-css-file.css">
-  </head>
+         <style>
+        h1 {
+          text-align:center;
+          margin-top:10px;
+          margin-bottom:10px;
+          background-color:#92C5DF;
+          
+        }
+        
+        body {
+          background-color:#F9EBCB;
+          color:#000000;
+          text-align:left;
+        }
+      </style>
+ 
+ </head>
   
      <body>
 
+      <h1>CHESSBOARD</h1>
 
 
 
@@ -26,11 +43,5 @@
       </p>
     </body>
   
-        <style>
-        body {
-          background-color:#F9EBCB;
-          color:#000000;
-          text-align:left;
-        }
-      </style>
+
   </html>
