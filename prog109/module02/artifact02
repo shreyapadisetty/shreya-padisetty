@@ -1,38 +1,17 @@
-
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <title>
       Artifact 02
     </title>
-         <style>
-        h1 {
-          text-align:center;
-          margin-top:10px;
-          margin-bottom:10px;
-          background-color:#92C5DF;
-          
-        }
-        
-        body {
-          background-color:#F9EBCB;
-          color:#000000;
-          text-align:left;
-        }
-      </style>
- 
+    
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
  </head>
   
      <body>
 
       <h1>CHESSBOARD</h1>
-
-
-
-
-
-
-
-
 
 
 
