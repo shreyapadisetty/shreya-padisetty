@@ -59,4 +59,10 @@ clear:both;
 border:solid 1px;
 padding: 10px;
 margin:10px;
+background-color:blue;
+}
+
+h1 {
+background-color:blue;
+text-align:center;
 }
