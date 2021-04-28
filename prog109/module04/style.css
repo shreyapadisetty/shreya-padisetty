@@ -1,7 +1,5 @@
 * {
-	 			font-family: 'FuturaRennerRegular';
-   				font-weight: normal;
-   				font-style: normal;			
+	 			font-family: Arial, Verdana, sans-serif;		
 				color: #665544;
 				text-align: center;
 }
@@ -65,4 +63,10 @@ background-color:#b3d1ff;
 
 #feature {
 float:center;	
+}
+
+h1 {
+font-family: 'FuturaRennerRegular';
+font-weight: normal;
+font-style: normal;	
 }
