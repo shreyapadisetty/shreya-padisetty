@@ -42,3 +42,23 @@
 				margin-bottom: 1em;
 				background-color: #efefef;
 }
+
+.column1 {
+background-color:#ffcccc;	
+}
+
+.column2 {
+background-color:#e6b3ff;	
+}
+
+.column3 {
+background-color:#b3ffcc;	
+}
+
+#nav {
+background-color:#f0c2e0;	
+}
+
+#footer {
+background-color:#b3d1ff;	
+}
