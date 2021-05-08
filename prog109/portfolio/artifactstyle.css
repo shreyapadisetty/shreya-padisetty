@@ -25,7 +25,8 @@ font-style: normal;
 }
 
 			.column1, .column2, .column3 {
-				width: 31.3%;
+				padding: 0.5em 0;
+				width: 50%;
 				float: left;
 				margin: 1%;
 }
