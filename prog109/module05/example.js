@@ -1,4 +1,4 @@
-var table = prompt("Please enter a value from 0-10");  // Unit of table
+var table = prompt("Please enter a value from 0-10", table);  // Unit of table
 //var operator = 'addition'; 
 var operator = 'multiplication'; // Type of calculation
 var i = 1;                 // Set counter to 1
