@@ -42,6 +42,7 @@ h1 {
 	text-align: center;}
 
 #blackboard {
+	font-family: 'Wellfleet', times, serif;
 	background-color: #425a5a;
 	border: 25px solid #523620;
 	border-radius: 20px;
