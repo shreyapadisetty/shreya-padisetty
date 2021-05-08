@@ -38,12 +38,9 @@ font-style: normal;
 			#feature, .article {
 				height: 10em;
 				margin-bottom: 1em;
-				background-color:  #fff3e6;
+				background-color:  #efefef;
 }
 
-#nav {
-background-color: #fff3e6;	
-}
 
 #feature {
 margin: 1%;
