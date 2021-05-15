@@ -18,7 +18,9 @@ rLine +="<p>";
   
 //fill in the left side with space
 for (x=1;x<=pHeight-1;x++) {
-  rLine += " ";
+//rLine += " ";
+  rLine +="<span class='space'>" + pSymbol +"</span>";
+  
 }
 
 //Create each line on the Rhombus
