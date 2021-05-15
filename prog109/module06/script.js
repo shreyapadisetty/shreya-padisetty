@@ -18,7 +18,7 @@ for (i=1;i<=pHeight;i++){
 rLine +="<p>";
   
 //fill in the left side with space
-for (x=1;x<=pHeight-1;x++) {
+for (x=1;x<=pHeight-i;x++) {
 //rLine += " ";
   rLine +="<span class='space'>" + pSymbol +"</span>";
   
@@ -75,7 +75,7 @@ var rLine ="";
 for (i=pHeight;i > 0;i--){
 rLine +="<p>";
   
-for (x=1;x<=pHeight-1;x++) {
+for (x=1;x<=pHeight-i;x++) {
 //rLine += " ";
   rLine +="<span class='space'>" + pSymbol +"</span>";
   
