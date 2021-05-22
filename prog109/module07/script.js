@@ -10,7 +10,7 @@
 
  var validLastname=false;
  var validLastname = document.getElementById("lastname").value;
- if (lastname==="null" || lastname==="" || lastname.length > 20) {
+ if (lastname==="null" || lastname==="" || lastname.length > 50) {
    errorMessages += "<p>The lastname is required and cannot be greater than 20 characters</p>";
  } else {
    validLastname = true;
