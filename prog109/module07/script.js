@@ -1,5 +1,5 @@
  var frmvalidator = new Validator("myform");
- var  validFirstname = false;
+ var validFirstname = false;
  var firstname = document.getElementById("firstname").value;
  if (firstname==="null" || firstname==="" || firstname.length > 20) {
    errorMessages += "<p>The firstname is required and cannot be greater than 20 characters</p>";
@@ -32,14 +32,16 @@ if (isNaN(phone) || phone.lenght >15 || phone===null || phone==="")
 	errorMessages = "<p>Invalid phone number </p>";
 else
   return true; 
-/*
-var numbers=/^[0-9]+$/;
-if (phone===null||phone ==="" ||phone.length>15|| !phone.match(numbers)) {
-	errorMessages = "<p>Invalid phone number </p>";
-} else {
-   return true;
+
+function validateForm() {
+	
 }
-*/
+
+
+
+
+
+
 
  frmvalidator.addValidation("FirstName","req","Please enter your First Name");
  frmvalidator.addValidation("FirstName","maxlen=20",
