@@ -1,6 +1,9 @@
  var frmvalidator = new Validator("myform");
  var validFirstname = false;
- var firstname = document.getElementById("firstname").value;
+ 
+
+function validateForm() {
+	 var firstname = document.getElementById("firstname").value;
  if (firstname==="null" || firstname==="" || firstname.length > 20) {
    errorMessages += "<p>The firstname is required and cannot be greater than 20 characters</p>";
  } else {
@@ -28,13 +31,11 @@ if (atpos< 1 || dotpos<atpos+2 || dotpos+2>=userEmail.length) {
 }
 
 var phone = document.getElementById("phone").value;
-if (isNaN(phone) || phone.lenght >15 || phone===null || phone==="")
+if (isNaN(phone) || phone.lenght >15 || phone===null || phone==="") {
 	errorMessages = "<p>Invalid phone number </p>";
-else
-  return true; 
-
-function validateForm() {
-	
+} else {
+  return true;
+}
 }
 
 
