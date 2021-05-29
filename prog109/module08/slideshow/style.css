@@ -1,4 +1,4 @@
-body, h1, p {
+body, h1, p, #previous, #next, #caption, #auto {
   margin: auto;
   text-align: center;
 }
