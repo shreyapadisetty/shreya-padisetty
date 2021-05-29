@@ -3,7 +3,7 @@ body, h1, p {
   text-align: center;
 }
 
-.center {
+#slideshow {
   display: block;
   margin-left: auto;
   margin-right: auto;
