@@ -39,7 +39,7 @@ tfoot {
     background-color: #fff;
     font-size:50px;
     text-align:center;
-    display: table-cell;
+  /*  display: table-cell; */
     vertical-align:middle;
 }
 
@@ -50,7 +50,7 @@ tfoot {
     background-color: #000000;
       font-size:50px;
     text-align:center;
-    display: table-cell;
+   /* display: table-cell; */
     vertical-align:middle;
 }
 
