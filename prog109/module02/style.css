@@ -25,14 +25,14 @@ tfoot {
           text-align:center;
         }
 
-.board {
+#board {
     width: 640px;
     height: 640px;
     margin: 20px;
     border: 25px solid #333;
 }
 
-.white {
+#white {
     float: left;
     width: 80px;
     height: 80px;
@@ -43,7 +43,7 @@ tfoot {
     vertical-align:middle;
 }
 
-.black {
+#black {
     float: left;
     width: 80px;
     height: 80px;
