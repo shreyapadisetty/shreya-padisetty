@@ -32,6 +32,12 @@ tfoot {
     border: 25px solid #333;
 }
 
+
+ div {
+  width: 640px;
+  height: 80px;
+}
+
 #white {
     float: left;
     width: 80px;
